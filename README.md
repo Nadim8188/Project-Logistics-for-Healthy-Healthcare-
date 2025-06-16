@@ -11,7 +11,7 @@ Within the _Logistics for Healthy Healthcare_ project, we are employing mathemat
  
 Develop a dynamic digital dashboard for the Arnhem (and Nijmegen) region (at the municipal level) that provides insights into the available number of nursing home beds, the number of STRCs and crisis beds, as well as the corresponding waiting times and occupancy rate
 
-
+# Instruction for running simulation and dashboard
 
 In order to be able to run the simulation and the dashboard on your device, download both files and place them in the same directory. For the notebook run each code in order of appearance. 
 The firebase database limit the access of users, if you want to get access to the database please send an email to HH.Nguyen3@student.han.nl
